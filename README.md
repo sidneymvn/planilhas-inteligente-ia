@@ -4,7 +4,8 @@
 
 Projeto com o objetivo de analisar entradas e saídas financeiras, identificar áreas de otimização de gastos e gerar relatórios e insights detalhados. Todos os resumos e insights seguem abaixo.
 
-## 📕 Clique aqui para visualizar a planilha
+## Clique aqui para visualizar a planilha
+📕<a href="https://github.com/sidneymvn/planilhas-inteligentes-ia" title="View now">Clique aqui para ver</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 - **ChatGPT**
